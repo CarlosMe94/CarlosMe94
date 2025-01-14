@@ -12,6 +12,6 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3
-      - uses: CarlosMe94/CarlosMe94@master
+      - uses: CarlosMe94/CarlosMe94@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
