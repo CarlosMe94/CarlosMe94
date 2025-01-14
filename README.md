@@ -13,4 +13,9 @@
 
 ### :zap: Actividad recienter
 <!--RECENT_ACTIVITY:start-->
+1. ⬆️ Pushed 1 commit(s) to [CarlosMe94/miPrimerRepositorio-curso-plaztzi](https://github.com/CarlosMe94/miPrimerRepositorio-curso-plaztzi)<br>
+2. ⬆️ Pushed 2 commit(s) to [CarlosMe94/miPrimerRepositorio-curso-plaztzi](https://github.com/CarlosMe94/miPrimerRepositorio-curso-plaztzi)<br>
+3. 🎉 Merged PR [#5](https://github.com/CarlosMe94/miPrimerRepositorio-curso-plaztzi/pull/5) in [CarlosMe94/miPrimerRepositorio-curso-plaztzi](https://github.com/CarlosMe94/miPrimerRepositorio-curso-plaztzi)<br>
+4. ⬆️ Pushed 1 commit(s) to [CarlosMe94/miPrimerRepositorio-curso-plaztzi](https://github.com/CarlosMe94/miPrimerRepositorio-curso-plaztzi)<br>
+5. ⬆️ Pushed 1 commit(s) to [CarlosMe94/miPrimerRepositorio-curso-plaztzi](https://github.com/CarlosMe94/miPrimerRepositorio-curso-plaztzi)<br>
 <!--RECENT_ACTIVITY:end-->
