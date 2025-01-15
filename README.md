@@ -13,9 +13,9 @@
 
 ### :zap: Actividad recienter
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#1](https://github.com/CarlosMe94/myTercerRepo/issues/1) in [CarlosMe94/myTercerRepo](https://github.com/CarlosMe94/myTercerRepo)<br>
-2. ❗️ Opened issue [#1](https://github.com/CarlosMe94/myTercerRepo/issues/1) in [CarlosMe94/myTercerRepo](https://github.com/CarlosMe94/myTercerRepo)<br>
-3. 📔 Created new repository [CarlosMe94/myTercerRepo](https://github.com/CarlosMe94/myTercerRepo)<br>
+1. ⬆️ Pushed 1 commit(s) to [CarlosMe94/CarlosMe94](https://github.com/CarlosMe94/CarlosMe94)<br>
+2. ⬆️ Pushed 1 commit(s) to [CarlosMe94/CarlosMe94](https://github.com/CarlosMe94/CarlosMe94)<br>
+3. ⬆️ Pushed 1 commit(s) to [CarlosMe94/CarlosMe94](https://github.com/CarlosMe94/CarlosMe94)<br>
 4. ⬆️ Pushed 1 commit(s) to [CarlosMe94/CarlosMe94](https://github.com/CarlosMe94/CarlosMe94)<br>
 5. ⬆️ Pushed 1 commit(s) to [CarlosMe94/CarlosMe94](https://github.com/CarlosMe94/CarlosMe94)<br>
 <!--RECENT_ACTIVITY:end-->
