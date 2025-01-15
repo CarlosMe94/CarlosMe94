@@ -13,9 +13,9 @@
 
 ### :zap: Actividad recienter
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [CarlosMe94/miPrimerRepositorio-curso-plaztzi](https://github.com/CarlosMe94/miPrimerRepositorio-curso-plaztzi)<br>
-2. ⬆️ Pushed 2 commit(s) to [CarlosMe94/miPrimerRepositorio-curso-plaztzi](https://github.com/CarlosMe94/miPrimerRepositorio-curso-plaztzi)<br>
-3. 🎉 Merged PR [#5](https://github.com/CarlosMe94/miPrimerRepositorio-curso-plaztzi/pull/5) in [CarlosMe94/miPrimerRepositorio-curso-plaztzi](https://github.com/CarlosMe94/miPrimerRepositorio-curso-plaztzi)<br>
-4. ⬆️ Pushed 1 commit(s) to [CarlosMe94/miPrimerRepositorio-curso-plaztzi](https://github.com/CarlosMe94/miPrimerRepositorio-curso-plaztzi)<br>
-5. ⬆️ Pushed 1 commit(s) to [CarlosMe94/miPrimerRepositorio-curso-plaztzi](https://github.com/CarlosMe94/miPrimerRepositorio-curso-plaztzi)<br>
+1. ✔️ Closed issue [#1](https://github.com/CarlosMe94/myTercerRepo/issues/1) in [CarlosMe94/myTercerRepo](https://github.com/CarlosMe94/myTercerRepo)<br>
+2. ❗️ Opened issue [#1](https://github.com/CarlosMe94/myTercerRepo/issues/1) in [CarlosMe94/myTercerRepo](https://github.com/CarlosMe94/myTercerRepo)<br>
+3. 📔 Created new repository [CarlosMe94/myTercerRepo](https://github.com/CarlosMe94/myTercerRepo)<br>
+4. ⬆️ Pushed 1 commit(s) to [CarlosMe94/CarlosMe94](https://github.com/CarlosMe94/CarlosMe94)<br>
+5. ⬆️ Pushed 1 commit(s) to [CarlosMe94/CarlosMe94](https://github.com/CarlosMe94/CarlosMe94)<br>
 <!--RECENT_ACTIVITY:end-->
