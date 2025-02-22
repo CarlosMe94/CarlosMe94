@@ -13,5 +13,4 @@
 
 ### :zap: Actividad recienter
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [midudev/curso-python](https://github.com/midudev/curso-python)<br>
 <!--RECENT_ACTIVITY:end-->
